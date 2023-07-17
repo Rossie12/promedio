@@ -1,2 +1,2 @@
-# promedio
+# ejercicios-practicos
 Created with CodeSandbox
